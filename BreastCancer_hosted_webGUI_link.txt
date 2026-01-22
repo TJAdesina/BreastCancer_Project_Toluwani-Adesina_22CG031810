@@ -1,0 +1,8 @@
+Name: Toluwani Joseph Adesina
+Matric Number: 22CG031810  
+
+Machine Learning Algorithm Used: Logistic Regression  
+Model Persistence Method: Joblib  
+
+Live Web App URL: https://your-streamlit-link  
+GitHub Repository Link: https://github.com/yourusername/BreastCancer_Project
